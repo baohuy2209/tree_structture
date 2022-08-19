@@ -1,0 +1,15 @@
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\synthetic.csproj.AssemblyReference.cache
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\synthetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\synthetic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\synthetic.AssemblyInfo.cs
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\synthetic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\tree\synthetic\bin\Debug\net6.0\synthetic.exe
+C:\Users\Lenovo\tree\synthetic\bin\Debug\net6.0\synthetic.deps.json
+C:\Users\Lenovo\tree\synthetic\bin\Debug\net6.0\synthetic.runtimeconfig.json
+C:\Users\Lenovo\tree\synthetic\bin\Debug\net6.0\synthetic.dll
+C:\Users\Lenovo\tree\synthetic\bin\Debug\net6.0\synthetic.pdb
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\synthetic.dll
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\refint\synthetic.dll
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\synthetic.pdb
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\synthetic.genruntimeconfig.cache
+C:\Users\Lenovo\tree\synthetic\obj\Debug\net6.0\ref\synthetic.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.csproj.AssemblyReference.cache
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.AssemblyInfoInputs.cache
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.AssemblyInfo.cs
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\bin\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.exe
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\bin\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.deps.json
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\bin\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.runtimeconfig.json
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\bin\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.dll
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\bin\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.pdb
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.dll
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\refint\Construct_all_possible_BSTs_for_keys_1_to_N.dll
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.pdb
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\Construct_all_possible_BSTs_for_keys_1_to_N.genruntimeconfig.cache
+C:\Users\Lenovo\tree\Construct_all_possible_BSTs_for_keys_1_to_N\obj\Debug\net6.0\ref\Construct_all_possible_BSTs_for_keys_1_to_N.dll

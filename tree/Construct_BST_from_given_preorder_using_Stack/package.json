@@ -1,0 +1,11 @@
+{
+  "name": "construct_bst_from_given_preorder_using_stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Bao Huy",
+  "license": "ISC"
+}

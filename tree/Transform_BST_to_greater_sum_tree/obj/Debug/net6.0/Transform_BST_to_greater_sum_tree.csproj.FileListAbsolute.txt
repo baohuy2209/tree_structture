@@ -1,0 +1,15 @@
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\Transform_BST_to_greater_sum_tree.csproj.AssemblyReference.cache
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\Transform_BST_to_greater_sum_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\Transform_BST_to_greater_sum_tree.AssemblyInfoInputs.cache
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\Transform_BST_to_greater_sum_tree.AssemblyInfo.cs
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\Transform_BST_to_greater_sum_tree.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\bin\Debug\net6.0\Transform_BST_to_greater_sum_tree.exe
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\bin\Debug\net6.0\Transform_BST_to_greater_sum_tree.deps.json
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\bin\Debug\net6.0\Transform_BST_to_greater_sum_tree.runtimeconfig.json
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\bin\Debug\net6.0\Transform_BST_to_greater_sum_tree.dll
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\bin\Debug\net6.0\Transform_BST_to_greater_sum_tree.pdb
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\Transform_BST_to_greater_sum_tree.dll
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\refint\Transform_BST_to_greater_sum_tree.dll
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\Transform_BST_to_greater_sum_tree.pdb
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\Transform_BST_to_greater_sum_tree.genruntimeconfig.cache
+C:\Users\Lenovo\tree\Transform_BST_to_greater_sum_tree\obj\Debug\net6.0\ref\Transform_BST_to_greater_sum_tree.dll

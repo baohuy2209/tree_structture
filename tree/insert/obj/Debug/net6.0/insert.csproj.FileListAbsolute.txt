@@ -1,0 +1,15 @@
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\insert.csproj.AssemblyReference.cache
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\insert.AssemblyInfoInputs.cache
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\insert.AssemblyInfo.cs
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\insert.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\tree\insert\bin\Debug\net6.0\insert.exe
+C:\Users\Lenovo\tree\insert\bin\Debug\net6.0\insert.deps.json
+C:\Users\Lenovo\tree\insert\bin\Debug\net6.0\insert.runtimeconfig.json
+C:\Users\Lenovo\tree\insert\bin\Debug\net6.0\insert.dll
+C:\Users\Lenovo\tree\insert\bin\Debug\net6.0\insert.pdb
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\insert.dll
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\refint\insert.dll
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\insert.pdb
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\insert.genruntimeconfig.cache
+C:\Users\Lenovo\tree\insert\obj\Debug\net6.0\ref\insert.dll

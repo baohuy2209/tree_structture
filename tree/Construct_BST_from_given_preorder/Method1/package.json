@@ -1,0 +1,11 @@
+{
+  "name": "method1",
+  "version": "1.0.0",
+  "main": "construct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Bao Huy",
+  "license": "ISC",
+  "description": ""
+}

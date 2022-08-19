@@ -1,0 +1,11 @@
+{
+  "name": "convert_bst_to_binarytree_such_that_sum_of_all_greater_keys_is_added_to_every_key",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Bao Huy",
+  "license": "ISC"
+}
