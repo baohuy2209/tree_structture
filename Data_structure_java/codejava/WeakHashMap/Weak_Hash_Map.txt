@@ -1,0 +1,9 @@
+Key points : 
+- implementation of Map. 
+- stores only weak references to its keys. 
+
+Weak references : the objects that are referenced only by weak references are garbage collected eagerly; the GC won't wait until it needs memory in that case. 
+
+Difference between Hashmap and WeakHashMap: If the java memory manager no longer has a strong reference to the object specified as a key, then the entry in the map will be removed in WeakHashMap. 
+
+ 

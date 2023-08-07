@@ -1,0 +1,13 @@
+Keypoint: 
+- SortedMap interface extends Map. 
+- entries are maintained in an ascending key order. 
+
+Methods of sorted Map : 
+- Comparator comparator() 
+- Object firstKey() 
+- SortedMap headMap(Object end)
+- Object lastKey() 
+- SortedMap subMap(Object start, Object end) 
+- SortedMap tailMap(Object start) 
+
+

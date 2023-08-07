@@ -1,0 +1,14 @@
+Key points: 
+- is Hash table and Linked list implementation of the Map interface, with predictable iteration order. 
+- inherits HashMap class and implements the Map interface. 
+- contains values based on the key. 
+- only unique elements. 
+- may have one null key and mulltiple null values. 
+- same as HashMap instead maintains insertion order. 
+
+Methods: 
+- void clear(). 
+- boolean containsKey(obeject key). 
+- Object get(Object key). 
+- protected boolean removeEldestEntry(Map.Entry.eldest). 
+

@@ -1,0 +1,14 @@
+TreeMap and TreeSet are not thread-safe collections, so care must be taken to ensure when used in multi-threaded programs. 
+
+Both TreeMap and TreeSet are safe when read, even concurrently, by multiple threads. So if they have been created and populated by a single thread (say, at the start of the program), and only then read, but not modified by multiple threads, there's no reason for synchronization or locking. 
+
+However, if read and modified concurrently, or modified concurrently by than one thread, the collection might throw a ConcurrentModificationException or behave unexpected. In these cases, it's imperative to synchronize/lock access to the collection using one of the following approaches: 
+
+1) Using Collections.synchronizedSorted... 
+This will provide a SortedSet/SortedMap implementation backed by the actual collection, and synchronized on some mutex object. Note that this will synchronize all read and write access to the collection on a single lock, so even concurrent reads would not be possible. 
+
+2) By manually synchronizing on some object, like the collection itself : 
+
+3) By using a lock, such as a ReetrantReadWriteLock: 
+
+As opposed to the previous synchronization methods, using a ReadWriteLock, allows multiple threads to read from the map concurrently. 
